@@ -1,0 +1,5 @@
+# Request
+geometry_msgs/Vector3 target_position
+---
+# Response
+geometry_msgs/Vector3[] path

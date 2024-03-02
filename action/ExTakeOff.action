@@ -1,0 +1,8 @@
+# Goal
+float32 altitude
+---
+# result
+float32 current_alt
+---
+# Feedback
+float32 error_alt
